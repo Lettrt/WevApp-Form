@@ -1,6 +1,6 @@
 import requests
 
-url = "http://127.0.0.1:8000/get_form"
+url = "http://localhost:80/get_form"
 
 data = {
     "email": "example@email.com",
